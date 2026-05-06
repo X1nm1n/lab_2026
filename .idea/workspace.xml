@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61d11f85-b43e-44e9-8507-947e07296721" name="Changes" comment="lab3">
-      <change afterPath="$PROJECT_DIR$/app/data/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="61d11f85-b43e-44e9-8507-947e07296721" name="Changes" comment="lab4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/books.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/schemas/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schemas/book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/schemas/review.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schemas/review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778053426648</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab4">
+      <option name="closed" value="true" />
+      <created>1778053653020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778053653020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +188,8 @@
     <MESSAGE value="update lab1" />
     <MESSAGE value="update lab2" />
     <MESSAGE value="lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab3" />
+    <MESSAGE value="lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
